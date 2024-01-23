@@ -5,7 +5,7 @@
 ## Acerca de mí
 
 - 🌱 Aprendiendo constantemente sobre las nuevas tecnologias.
-- 👯 Buscando colaborar en proyectoS.
+- 👯 Buscando colaborar en proyectos.
 
 ## Proyectos destacados
 
