@@ -1,19 +1,16 @@
-### Hi there 👋
 # Bienvenido a mi perfil de GitHub 👋
 
 ¡Hola! Soy Facundo Kameyha, un apasionado a la tecnologia. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## Acerca de mí
 
-- 🌐 [Sitio web/blog personal](http://www.tusitio.com)
-- 💼 Actualmente trabajando en [nombre de tu empresa/proyecto]
-- 🌱 Aprendiendo constantemente sobre [tecnologías/temas de interés]
-- 👯 Buscando colaborar en proyectos de código abierto
+- 🌱 Aprendiendo constantemente sobre las nuevas tecnologias.
+- 👯 Buscando colaborar en proyectoS.
 
 ## Proyectos destacados
 
-- 🚀 [Nombre del proyecto](enlace al repositorio): Una breve descripción del proyecto y su importancia.
-- 🌟 [Otro proyecto destacado](enlace al repositorio): Breve descripción y motivo por el que es especial.
+- 🚀 [Pedidos](https://github.com/KameyhaFacundo/Pedidos-Frontend): Pagina web, donde cada usuario puede realizar una compra.
+- 🌟 [Ecommerce-GAMER](https://github.com/KameyhaFacundo/Ecommerce-gamer): Pagina web de un ecommerce-gamer.
 
 ## Tecnologías
 
@@ -36,7 +33,7 @@ Aquí algunas de las tecnologías con las que trabajo:
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&count_private=true&hide=contribs)](https://github.com/tuusuario)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KameyhaFacundo&show_icons=true&count_private=true&hide=contribs)](https://github.com/KameyhaFacundo)
 
 ## Contacto
 
