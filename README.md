@@ -1,99 +1,98 @@
+```html
 <p align="center">
   <code>facundo@github ~ $ ./contributions.sh</code>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KameyhaFacundo&bg_color=0d1117&color=39ff14&line=00c853&point=39ff14&area=true&area_color=003b20&hide_border=true&custom_title=" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KameyhaFacundo&bg_color=0d1117&color=39ff14&line=00c853&point=39ff14&area=true&area_color=003b20&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 </p>
-
-<br/>
 
 <p align="center">
   <code>facundo@github ~ $ whoami</code>
 </p>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr valign="top">
-      <!-- PANEL IZQUIERDO: TERMINAL PROFILE -->
-      <td width="48%" align="center">
-        <table width="100%" style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 16px;">
-          <tr>
-            <td align="left">
-              <span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span>
-            </td>
-          </tr>
-          <tr>
-            <td align="left" style="padding-top: 14px;">
-              <h2 style="color: #ffffff; margin: 0 0 4px 0;">Facundo Kameyha</h2>
-              <code style="color: #39ff14; font-size: 13px;">FULL STACK DEVELOPER</code>
-              
-              <hr style="border: 0; border-top: 1px solid #21262d; margin: 14px 0;" />
-              
-              <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6; margin: 0 0 14px 0;">
-                Ingeniero en Computación en formación. Desarrollo aplicaciones web escalables, APIs REST y soluciones orientadas a bases de datos.
-              </p>
-              
-              <table border="0" cellspacing="0" cellpadding="2" style="font-size: 12px; color: #8b949e;">
-                <tr>
-                  <td style="color: #39ff14; font-family: monospace;">$ location</td>
-                  <td style="color: #ffffff; padding-left: 10px;">Argentina</td>
-                </tr>
-                <tr>
-                  <td style="color: #39ff14; font-family: monospace;">$ status</td>
-                  <td style="color: #ffffff; padding-left: 10px;">Always learning</td>
-                </tr>
-                <tr>
-                  <td style="color: #39ff14; font-family: monospace;">$ focus</td>
-                  <td style="color: #ffffff; padding-left: 10px;">Software Development</td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-        </table>
-      </td>
-
-      <td width="4%"></td>
-
-      <!-- PANEL DERECHO: MÉTRICAS Y STREAK ESTILO DASHBOARD -->
-      <td width="48%" align="center">
-        <p align="center" style="margin-top: 0;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=KameyhaFacundo&theme=dark&background=0d1117&border=21262d&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" width="100%" alt="Streak Stats" />
-        </p>
-        <p align="center" style="margin-bottom: 0;">
-          <img src="https://github-readme-stats.vercel.app/api?username=KameyhaFacundo&show_icons=true&hide_border=false&border_color=21262d&bg_color=0d1117&title_color=39ff14&icon_color=00c853&text_color=c9d1d9&rank_icon=github&hide=contribs" width="100%" alt="GitHub Stats" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
+<table>
+  <tr>
+    <td width="42%" valign="top">
+      <h3>Facundo Kameyha</h3>
+      <p><code>FULL STACK DEVELOPER</code></p>
+      <p>
+        Ingeniero en Computación en formación. Desarrollo aplicaciones web,
+        APIs REST y sistemas de gestión utilizando tecnologías modernas.
+      </p>
+      <hr />
+      <p><code>$ location</code><br/>Argentina</p>
+      <p><code>$ status</code><br/>Always learning</p>
+      <p><code>$ focus</code><br/>Software development</p>
+      <p><code>$ university</code><br/>Universidad Nacional de Tucumán</p>
+      <p>
+        <a href="mailto:kameyhafacundo@gmail.com">Email</a> ·
+        <a href="https://www.linkedin.com/in/facundo-kameyha/">LinkedIn</a>
+      </p>
+    </td>
+    <td width="58%" valign="top">
+      <p align="center"><code>SYSTEM STATISTICS</code></p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=KameyhaFacundo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=00c853&text_color=c9d1d9&rank_icon=github&hide=contribs" width="100%" alt="GitHub Statistics" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KameyhaFacundo&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" width="100%" alt="Most Used Languages" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KameyhaFacundo&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=00c853&currStreakLabel=39ff14" width="100%" alt="GitHub Contribution Streak" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <code>facundo@github ~ $ ls ./projects</code>
 </p>
 
-| Proyecto | Descripción | Enlace |
-| :--- | :--- | :---: |
-| **Pedidos** | Aplicación web completa para gestión de pedidos y compras. | [Explorar](https://github.com/KameyhaFacundo/Pedidos-Frontend) |
-| **Ecommerce-GAMER** | Plataforma de comercio electrónico orientada a hardware/gaming. | [Explorar](https://github.com/KameyhaFacundo/Ecommerce-gamer) |
-| **Saas - sistema comercial** | Sistema para comercios (kiosco, ferreteria, indumentaria, etc)
-
-<br/>
+| Proyecto | Descripción | Repositorio |
+|:--|:--|:--:|
+| **Pedidos** | Aplicación web para gestionar pedidos y compras. | [Explorar](https://github.com/KameyhaFacundo/Pedidos-Frontend) |
+| **Ecommerce-GAMER** | Plataforma de comercio electrónico orientada al mundo gamer. | [Explorar](https://github.com/KameyhaFacundo/Ecommerce-gamer) |
+| **Sistema comercial SaaS** | Proyecto de gestión comercial para negocios: productos, stock y ventas. | En desarrollo |
 
 <p align="center">
   <code>facundo@github ~ $ cat ./tech-stack.txt</code>
 </p>
 
 <p align="center">
-  <b>Frontend:</b> <code>React</code> · <code>JavaScript</code> · <code>HTML5</code> · <code>CSS3</code> · <code>Bootstrap</code><br/>
-  <b>Backend:</b> <code>Node.js</code> · <code>Express.js</code> · <code>PHP</code> · <code>Java</code> · <code>Python</code><br/>
-  <b>Bases de Datos:</b> <code>PostgreSQL</code> · <code>MySQL</code> · <code>MongoDB</code><br/>
-  <b>Herramientas:</b> <code>Git</code> · <code>GitHub</code> · <code>Postman</code> · <code>Docker</code> · <code>Jira</code>
+  <b>FRONTEND</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<br/>
+<p align="center">
+  <b>BACKEND</b><br/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>DATABASES</b><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>TOOLS & METHODOLOGIES</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+</p>
 
 <p align="center">
   <code>facundo@github ~ $ ./connect.sh</code>
@@ -101,18 +100,14 @@
 
 <p align="center">
   <a href="mailto:kameyhafacundo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14&borderColor=21262d" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Email" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/facundo-kameyha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14&borderColor=21262d" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/KameyhaFacundo">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39ff14&borderColor=21262d" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <code style="color: #8b949e;">[Process completed - EOF]</code>
+  <code>[Process completed - EOF]</code>
 </p>
+```
