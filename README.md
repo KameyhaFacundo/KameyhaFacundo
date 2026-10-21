@@ -1,102 +1,123 @@
-# 👨‍💻 Facundo Kameyha
-
-### Computer Engineering | Full Stack Developer
-
-Desarrollador de aplicaciones e ingeniero en computación en formación. Me interesa crear soluciones tecnológicas, desarrollar aplicaciones web y mejorar continuamente mis habilidades.
+# `facundo@github ~ $ ./contributions.sh`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE-FULL%20STACK-00C853?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-171717?style=for-the-badge&logo=codewars&logoColor=00C853" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KameyhaFacundo&bg_color=0d1117&color=39ff14&line=00c853&point=39ff14&area=true&area_color=003b20&hide_border=true&custom_title=" width="100%" alt="Contribution graph"/>
 </p>
-
----
-
-## 🟢 GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KameyhaFacundo&bg_color=0d1117&color=00e676&line=00c853&point=39ff88&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <b>🟢 CONTRIBUTIONS · CODE · CONTINUOUS LEARNING</b>
 </p>
 
-## 📊 GitHub Statistics
+---
+
+# `facundo@github ~ $ whoami`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```text
+     .-""""""""-.
+   .'  _    _    '.
+  /   (o)  (o)    \
+ |       .          |
+ |     \___/        |
+  \   ._______.    /
+   '.           .'
+     '-._____.-'
+```
+
+### Facundo Kameyha
+
+`FULL STACK DEVELOPER`
+
+Ingeniero en Computación en formación. Desarrollo aplicaciones web, APIs REST y soluciones basadas en bases de datos.
+
+```bash
+$ location
+Argentina
+
+$ status
+Always learning
+
+$ focus
+Software development
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `SYSTEM STATISTICS`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KameyhaFacundo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KameyhaFacundo&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KameyhaFacundo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=00c853&text_color=c9d1d9&rank_icon=github&hide=contribs" width="100%" alt="GitHub statistics"/>
 </p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KameyhaFacundo&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=00c853&currStreakLabel=39ff14" width="100%" alt="Contribution streak"/>
+</p>
 
-### 🛒 [Pedidos](https://github.com/KameyhaFacundo/Pedidos-Frontend)
-
-Aplicación web de pedidos que permite a los usuarios explorar productos y realizar compras.
-
-### 🎮 [Ecommerce-GAMER](https://github.com/KameyhaFacundo/Ecommerce-gamer)
-
-Proyecto de comercio electrónico orientado a productos del mundo gamer.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Technologies & Tools
+# `facundo@github ~ $ ls ./projects`
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-### Tools & Methodologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
-</p>
+| Project | Description | Repository |
+|---|---|---|
+| 🛒 Pedidos | Aplicación web para realizar pedidos y compras. | [Ver proyecto](https://github.com/KameyhaFacundo/Pedidos-Frontend) |
+| 🎮 Ecommerce-GAMER | Ecommerce orientado al mundo gamer. | [Ver proyecto](https://github.com/KameyhaFacundo/Ecommerce-gamer) |
 
 ---
 
-## 🧠 About Me
+# `facundo@github ~ $ cat ./tech-stack.txt`
 
-- 🎓 Ingeniería en Computación — Universidad Nacional de Tucumán.
-- 💻 Desarrollo de aplicaciones web Full Stack.
-- 🔌 Experiencia trabajando con APIs REST.
-- 🗄️ Diseño y gestión de bases de datos relacionales y NoSQL.
-- 🤝 Interés en proyectos colaborativos y metodologías ágiles.
-- 🌱 Aprendizaje continuo y desarrollo de nuevas habilidades.
+**FRONTEND**
+
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Bootstrap`
+
+**BACKEND**
+
+`PHP` · `Node.js` · `Express.js` · `Java` · `Python`
+
+**DATABASES**
+
+`MySQL` · `PostgreSQL` · `MongoDB`
+
+**TOOLS**
+
+`Git` · `GitHub` · `Postman` · `Jira` · `Trello` · `XAMPP` · `WampServer`
+
+**OTHER**
+
+`REST APIs` · `SCRUM` · `TCP/IP` · `DNS`
 
 ---
 
-## 📫 Contact
+# `facundo@github ~ $ git log --oneline`
 
-<p>
+```text
+> Building useful software
+> Learning new technologies
+> Improving code quality
+> Collaborating on projects
+```
+
+---
+
+# `facundo@github ~ $ ./connect.sh`
+
+<p align="center">
   <a href="mailto:kameyhafacundo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-39ff14?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/facundo-kameyha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-00c853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Building, learning and improving through code.</i>
+  <code>EOF — Thanks for visiting my profile.</code>
 </p>
