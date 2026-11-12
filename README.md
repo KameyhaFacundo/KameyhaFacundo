@@ -59,6 +59,10 @@ const facundo = {
 | Proyecto | Qué hace | Stack |
 | --- | --- | --- |
 | **Sistema de gestión comercial (SaaS / local)** | Punto de venta, stock y facturación ARCA, con IA y escaneo de facturas. Se ofrece en la nube o instalado en el local. | PHP · JS · Railway · Cloudflare |
+| **[Estudio jurídico Justa Causa](https://www.abogadamariajosefernandez.com.ar/)** | Web para una abogada: áreas de práctica, guías para el cliente, formulario que arma el mensaje de WhatsApp y modo claro y oscuro. | React · Vercel |
+| **[Maira Boutique & Todo](https://maira-boutique.vercel.app/)** | Tienda de ropa con catálogo por categoría, selector de talle, consulta por WhatsApp de cada prenda y lookbook. | React · Vercel |
+| **[Impulsa Motors](https://impulsa-motores.vercel.app/)** | Repuestos de moto con buscador por marca y modelo que arma el mensaje de WhatsApp, y mapa. | React · Vercel |
+| **[Barbershop](https://barbershop-ok.vercel.app/)** | Barbería con lista de precios, turnos por WhatsApp y poste de barbero animado. | React · Vercel |
 | **Sistema financiero** | Sucursales, cheques, balances y cambio de monedas. | React · Laravel |
 | **Sistemas comerciales** | Stock y facturación electrónica para comercios. | React · Laravel |
 | **[Pedidos](https://github.com/KameyhaFacundo/Pedidos-Frontend)** | Los clientes de un restaurante arman su pedido online. | React · MongoDB |
